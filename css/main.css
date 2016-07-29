@@ -1,0 +1,104 @@
+
+.fondo{ /*HEADER*/
+	background-color: white;
+}
+.banner{
+	background-image: url("../img/grupal.jpg") ; 
+	background-repeat: no-repeat;
+	background-size: cover;
+    height: 600px;
+    width: 1250px;
+    margin-left: 15px;
+}
+.sumate{
+	margin-left: 190px;
+	margin-top: 50px;
+}
+.logolab{
+	width: 350px;
+	margin-left: 20%;
+	margin-top: 40px;
+}
+.inicio{
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.nosotros{
+	margin-left: -90px;
+	margin-top: 50px;
+}
+.contacto{
+	margin-left: 235px;
+	margin-top: -18px;
+}
+
+.myButton {
+    -moz-box-shadow:inset 0px 39px 0px -24px orange;
+    -webkit-box-shadow:inset 0px 39px 0px -24px orange;
+    box-shadow:inset 0px 39px 0px -24px orange;
+    background-color: orange;
+    -moz-border-radius:4px;
+    -webkit-border-radius:4px;
+    border-radius:4px;
+    border:1px solid orange;
+    display:inline-block;
+    cursor:pointer;
+    color:white;
+    font-family:Arial;
+    font-size:15px;
+    padding:20px 50px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #b23e35;
+}
+.myButton:hover {
+    background-color:#eb675e;
+}
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+.myButton{
+	margin-left: 60%;
+	margin-top: 20px;
+}					
+/* FINAL HEADER*/
+
+/*CONTENIDO*/
+
+.grupal1{
+	width: 250px;
+	margin-top: 10px;
+	margin-left: 50px;
+}
+.grupal2{
+	width: 250px;
+	margin-top: 10px;
+	margin-left: 28px;
+}
+.grupal3{
+	width: 250px;
+	margin-top: 10px;
+	margin-left: 5px;
+}
+h5{
+	border-bottom: 3px red;
+}
+
+/*FINAL CONTENIDO*/
+
+/*FOOTER*/
+
+.backgroundfooter{
+	background-color: gray;
+	width: 1270px;
+	height: 100px;
+}
+.textofooter{
+	color: white;
+	margin-top: 40px;
+
+}
+
+hr{
+	margin-bottom: 30px;	
+}
